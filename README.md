@@ -23,9 +23,9 @@ https://github.com/user-attachments/assets/b7d0ce99-763d-4948-b7ce-e1f0837b1ceb
 
 
 
-## :link:Link para o repositório
+## :link:Link para o site
 
-https://xxthund3rxx.github.io/projeto-final-m2/
+[https://xxthund3rxx.github.io/projeto-final-m2/](https://xxthund3rxx.github.io/Alerta_Verde/)
 
 
 ## :wrench:Tecnologias utilizadas
